@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 Este repositorio contiene mi progreso como desarrollador.
 
-📌 Aquí iré subiendo el código público que vaya haciendo y mejorando con el tiempo
+📌 Aquí iré subiendo el código público que vaya haciendo y mejorando con el tiempo 📌
 
 
 </div>
