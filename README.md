@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# Alberto Conde Fernández
+# ⚡Alberto Conde Fernández⚡
 
-### 🚀 Desarrollador Full Stack
+### 🚀 Desarrollador de Software🚀
 
 <img src="https://skillicons.dev/icons?i=python,java,js,react,php,docker,mysql,git" />
 
