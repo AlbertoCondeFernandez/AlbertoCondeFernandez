@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 -->
 💻 Backend + Frontend  a Full Stack 💻
 ⚡ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y Técnico en Sistemas Microinformáticos y Redes
+
 📍 Valladolid, España
 
 </div>
