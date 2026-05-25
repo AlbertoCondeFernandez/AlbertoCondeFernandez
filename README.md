@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 
 ### 🚀 Desarrollador de Software🚀
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,php,docker,mysql,git" />
+
 
 ---
 
 💻 Backend + Frontend  
-⚡ Aplicaciones web y multiplataforma  
-📍 España
+⚡ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y Técnico en Sistemas Microinformáticos y Redes
+📍 Valladolid, España
 
 </div>
