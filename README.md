@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<div align="center">
+
+# Alberto Conde Fernández
+
+### 🚀 Desarrollador Full Stack
+
+<img src="https://skillicons.dev/icons?i=python,java,js,react,php,docker,mysql,git" />
+
+---
+
+💻 Backend + Frontend  
+⚡ Aplicaciones web y multiplataforma  
+📍 España
+
+</div>
