@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 📍 Valladolid, España 📍
 
-Este repositorio contiene mi progreso como desarrollador.
+👍 Centrado en Java Developer | POO | Concurrencia | Programación Asíncrona | SQL/NoSQL | Swing 👍
 
 📌 Aquí iré subiendo el código público que vaya haciendo y mejorando con el tiempo 📌
 
