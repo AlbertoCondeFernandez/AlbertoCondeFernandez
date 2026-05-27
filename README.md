@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 📍 Valladolid, España 📍
 
-👍 Centrado en Java Developer | POO | Concurrencia | Programación Asíncrona | SQL/NoSQL | Swing 👍
+👍 Centrado en Java Developer | POO | Concurrencia y Multithreading | Programación Asíncrona | SQL/NoSQL | Swing 👍
 
 📌 Aquí iré subiendo el código público que vaya haciendo y mejorando con el tiempo 📌
 
